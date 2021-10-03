@@ -183,12 +183,12 @@
             }),
           });
         },
-        ee = t.p + "/ignite-build/static/media/xbox.3e7db735.svg",
-        ne = t.p + "/ignite-build/static/media/apple.5757c37e.svg",
-        te = t.p + "/ignite-build/static/media/gamepad.c9269ef5.svg",
-        ae = t.p + "/ignite-build/static/media/nintendo.f579be04.svg",
-        ce = t.p + "/ignite-build/static/media/playstation.18cc4b9c.svg",
-        re = t.p + "/ignite-build/static/media/steam.d7b8819f.svg",
+        ee = t.p + "./static/media/xbox.3e7db735.svg",
+        ne = t.p + "./static/media/apple.5757c37e.svg",
+        te = t.p + "./static/media/gamepad.c9269ef5.svg",
+        ae = t.p + "./static/media/nintendo.f579be04.svg",
+        ce = t.p + "./static/media/playstation.18cc4b9c.svg",
+        re = t.p + "./static/media/steam.d7b8819f.svg",
         ie = Object(w.b)(F.a.div)(
           r ||
             (r = Object(x.a)([
