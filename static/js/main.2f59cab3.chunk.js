@@ -516,7 +516,7 @@
           });
         },
         he = t(103),
-        Oe = t.p + "./static/media/logo.9b6b8655.svg",
+        Oe = t.p + "static/media/logo.9b6b8655.svg",
         Ae = Object(w.b)(F.a.nav)(
           g ||
             (g = Object(x.a)([
